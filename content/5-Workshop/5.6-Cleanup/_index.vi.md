@@ -16,12 +16,11 @@ pre: " <b> 5.6. </b> "
    - Click vào biểu tượng người dùng ở góc trên bên phải.
    - Chọn **Manage QuickSight**.
 
-2. **Cài đặt Tài khoản**:
-   - Vào **Account settings**.
-   - Chọn **Delete account**.
-   - Gõ `delete` để xác nhận.
-   - Chọn **Delete account**.
-
+2.  **Hủy đăng ký QuickSight**:
+    - Đi tới **Account settings**.
+    - Chọn **Delete account** (Hủy đăng ký QuickSight).
+    - Gõ `delete` để xác nhận.
+    - Chọn **Delete account**.
 ---
 
 **Lưu ý:** *Nếu bạn đang dùng Free Trial, bạn sẽ không bị tính phí cho đến khi thời gian dùng thử kết thúc, nhưng nên dọn dẹp nếu bạn đã hoàn thành.*

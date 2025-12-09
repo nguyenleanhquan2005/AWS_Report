@@ -16,9 +16,9 @@ To avoid incurring future charges, you should unsubscribe from QuickSight if you
    - Click on your user icon in the top right corner.
    - Choose **Manage QuickSight**.
 
-2. **Account Settings**:
+2.  **Unsubscribe from QuickSight**:
    - Go to **Account settings**.
-   - Choose **Delete account**.
+   - Choose **Delete account** (this unsubscribes you from QuickSight).
    - Type `delete` to confirm.
    - Choose **Delete account**.
 
