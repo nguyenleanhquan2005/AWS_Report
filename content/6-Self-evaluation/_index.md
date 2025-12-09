@@ -34,4 +34,4 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 * Improve problem-solving thinking  
 * Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
-* Need to study more, I feel like I never study enough 
+* Improve time management skills to be better and more disciplined; I tend to procrastinate until the last minute.
